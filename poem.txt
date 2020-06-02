@@ -3,4 +3,5 @@ ljubicasta
 roza
 narandzasta
 plava
+zelena
 crvena
